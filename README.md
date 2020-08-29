@@ -11,10 +11,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on REST API using Spring Boot framework.
 - 🌱 I’m currently learning JavaScript, HTML5 and CSS3.
 - 👯 I’m trying my hands on React.js.
-<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Android and Basic JavaScript Concepts.
-<!-- - 📫 How to reach me: (my portfolio) -->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Building an E-Commerce Site using React.js
-
+<!--- 🤔 I’m looking for help with ...-->
+<!-- - 📫 How to reach me: (my portfolio) -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kirantrathod)
