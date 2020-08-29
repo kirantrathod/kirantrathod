@@ -7,7 +7,7 @@
   <img align="left" alt="Kiran Rathod - LinkedIn" width="22px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
 </a>
 ### I am Kiran. Thanks for dropping by!<br/> 
-I am Software Developer at Tata Consultancy Services. I love coding and building projects. Working on REST API Development project in TCS. Enthusiastic about JavaScript and React.js. <br/>
+I am Software Developer at Tata Consultancy Services. I ❤️ coding, problem solving and building projects. I have worked on Android application development(If you are curious about Android apps then you'll love my Android project: [Be_You](https://github.com/kirantrathod/Be_You)). Currently in ❤️ of JavaScript and React.js. <br/>
 Big fan of Mr.Robot and listening to "Prateek Kuhad" & "The Local Train". Currently binge watching "Friends"(Bdw Ross has great reactions😜).
 <!--
 **kirantrathod/kirantrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
