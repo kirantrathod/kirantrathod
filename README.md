@@ -8,7 +8,7 @@
 </a>
 ### I am Kiran. Thanks for dropping by!<br/> 
 I am Software Developer at Tata Consultancy Services. I like coding, problem solving and building projects. I have worked on Android application development(If you are curious about Android apps then you'll love my Android project: [Be_You](https://github.com/kirantrathod/Be_You)). Currently in love of JavaScript and React.js. <br/>
-Big fan of Mr.Robot and listening to "Prateek Kuhad" & "The Local Train". Currently binge watching "Friends"(Bdw Ross has great reactions😜).
+Big fan of Mr.Robot and listening to "Prateek Kuhad" & "The Local Train". Currently binge watching "Friends".
 <!--
 **kirantrathod/kirantrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on REST API using Spring Boot framework.
 - 🌱 I’m currently learning JavaScript, HTML5 and CSS3.
 - 👯 I’m trying my hands on React.js.
-- 💬 Ask me about Android and Basic JavaScript Concepts.
+- 💬 Ask me about Android,Java,Basic JavaScript Concepts.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Building an E-Commerce Site using React.js
 <!--- 🤔 I’m looking for help with ...-->
