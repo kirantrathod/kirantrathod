@@ -8,7 +8,8 @@
 </a>
 ### I am Kiran. Thanks for dropping by!<br/> 
 I am Software Developer at Tata Consultancy Services. I like coding, problem solving and building projects. I have worked on Android application development(If you are curious about Android apps then you'll love my Android project: [Be_You](https://github.com/kirantrathod/Be_You)). Currently in love of JavaScript and React.js. <br/>
-Big fan of Mr.Robot and listening to "Prateek Kuhad" & "The Local Train". Currently binge watching "Friends".
+Big fan of Mr.Robot & Silicon Valley.
+<br/>Listening to "Prateek Kuhad" & "The Local Train". Currently binge watching "The Office".
 <!--
 **kirantrathod/kirantrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
