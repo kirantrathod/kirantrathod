@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m trying my hands on React.js.
 - 💬 Ask me about Java,JavaScript.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love 
+<!-- - ⚡ Fun fact: I love--> 
 <!--- 🤔 I’m looking for help with ...-->
 <!-- - 📫 How to reach me: (my portfolio) -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kirantrathod)
