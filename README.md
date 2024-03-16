@@ -12,7 +12,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirantrathod)](https://git.io/streak-stats)<br/>
 ### I am Kiran. Thanks for dropping by!<br/> 
-I am a Software Developer at Tata Consultancy Services. I like coding, problem solving and building projects. Currently I am into web development and in love of JavaScript and React.js. <br/>
+I am a Software Developer at Accenture Solutions Private Ltd. I like coding, problem solving and building projects. Currently I am into web development and in love of JavaScript and React.js. <br/>
 Learning things by creating projects.<br/>
 Do checkout my Portfolio site @ https://kirantrathod.in created recently using React.js
 <!-- <br/>Listening to "Prateek Kuhad". Currently binge watching "The Office US". -->
