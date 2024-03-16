@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/kirantrathod" rel="nofollow">
   <img align="left" alt="Kiran Rathod - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25" height="25" style="max-width:100%;">
 </a>
+<br/>
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirantrathod)](https://git.io/streak-stats)<br/>
 ### I am Kiran. Thanks for dropping by!<br/> 
 I am a Software Developer at Tata Consultancy Services. I like coding, problem solving and building projects. Currently I am into web development and in love of JavaScript and React.js. <br/>
